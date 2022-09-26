@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B265B459-B4B6-44BC-BDB1-B401C58DC48F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Taller</RootNamespace>
+    <AssemblyName>Taller</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>IcoApp.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddForms\AddExtraInf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForms\AddExtraInf.designer.cs">
+      <DependentUpon>AddExtraInf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddForms\AddParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForms\AddParts.designer.cs">
+      <DependentUpon>AddParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddForms\AddLabors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForms\AddLabors.designer.cs">
+      <DependentUpon>AddLabors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddForms\AddClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForms\AddClients.designer.cs">
+      <DependentUpon>AddClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddForms\AddExtra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForms\AddExtra.Designer.cs">
+      <DependentUpon>AddExtra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\LoadCombo.cs" />
+    <Compile Include="Class\Crud.cs" />
+    <Compile Include="FormEjemplo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEjemplo.Designer.cs">
+      <DependentUpon>FormEjemplo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LllenadodeFroms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LllenadodeFroms.Designer.cs">
+      <DependentUpon>LllenadodeFroms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\FrogetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\FrogetPass.Designer.cs">
+      <DependentUpon>FrogetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddForms\AddVehicles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddForms\AddVehicles.designer.cs">
+      <DependentUpon>AddVehicles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewSearcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSearcher.Designer.cs">
+      <DependentUpon>NewSearcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecordsForms\Searcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecordsForms\Searcher.designer.cs">
+      <DependentUpon>Searcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login\RegisterUSer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\RegisterUSer.Designer.cs">
+      <DependentUpon>RegisterUSer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchFast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchFast.Designer.cs">
+      <DependentUpon>SearchFast.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddForms\AddExtraInf.resx">
+      <DependentUpon>AddExtraInf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddForms\AddParts.resx">
+      <DependentUpon>AddParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddForms\AddLabors.resx">
+      <DependentUpon>AddLabors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddForms\AddClients.resx">
+      <DependentUpon>AddClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddForms\AddExtra.resx">
+      <DependentUpon>AddExtra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEjemplo.resx">
+      <DependentUpon>FormEjemplo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LllenadodeFroms.resx">
+      <DependentUpon>LllenadodeFroms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\FrogetPass.resx">
+      <DependentUpon>FrogetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddForms\AddVehicles.resx">
+      <DependentUpon>AddVehicles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSearcher.resx">
+      <DependentUpon>NewSearcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecordsForms\Searcher.resx">
+      <DependentUpon>Searcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Login\RegisterUSer.resx">
+      <DependentUpon>RegisterUSer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchFast.resx">
+      <DependentUpon>SearchFast.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592847-general-office-repair-repair-tool-screwdriver-tools-wrench_107766.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50lgZOl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5B1FPSW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aRzA8CA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AzgnZxe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BBfqk5e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\so0hPPy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windowclose_104378.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windowminimize_104316.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mini Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-add_114467.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-add_1144671.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-add_114467.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-add_1144671.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\virus_medical_records_diagnosis_document_icon_142217.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-add_114479.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-search_114412.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file-edit_114433.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_icon-icons.com_73700.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IcoApp.ico" />
+    <None Include="Resources\Logo Programa.png" />
+    <None Include="Resources\ic_exit_to_app_128_28418.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

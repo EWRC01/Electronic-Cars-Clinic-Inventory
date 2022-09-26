@@ -1,0 +1,111 @@
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\bin\Debug\Taller.exe.config
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\bin\Debug\Taller.exe
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\bin\Debug\Taller.pdb
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.exe
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.pdb
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.FrogetPass.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.Login.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.Home.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.Form3.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.RegisterUSer.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.AddVehicles.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.AddClients.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.AddLabors.resources
+C:\Users\joelu\Downloads\Modern-Media-Player-UI-C-Sharp-master\Taller\obj\Debug\Taller.AddParts.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddParts.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddLabors.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddClients.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.FrogetPass.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Login.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Home.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddVehicles.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Form3.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.RegisterUSer.resources
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\Wilfredo\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddParts.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddLabors.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddClients.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.FrogetPass.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Login.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Home.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddVehicles.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.RegisterUSer.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.aggExtra.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.AddExtraInf.resources
+C:\Users\joelu\Downloads\Telegram Desktop\Taller\Taller\obj\Debug\Taller.Searcher.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\Wilfredo\Desktop\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\Wilfredo\Desktop\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.AddExtraInf.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.AddParts.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.AddLabors.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.AddClients.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.aggExtra.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.FrogetPass.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.Login.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.Home.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.AddVehicles.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.Searcher.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.RegisterUSer.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.SearchFast.resources
+C:\Users\joelu\Documents\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\joelu\Documents\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\joelu\Documents\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.csprojAssemblyReference.cache
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.AddExtraInf.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.AddParts.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.AddLabors.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.AddClients.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.aggExtra.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.FrogetPass.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.Login.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.Home.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.AddVehicles.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.Searcher.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.RegisterUSer.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.SearchFast.resources
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\joelu\Documents\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.FormEjemplo.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.NewSearcher.resources
+C:\Users\Wilfredo\Desktop\Taller\Taller\obj\Debug\Taller.LllenadodeFroms.resources
